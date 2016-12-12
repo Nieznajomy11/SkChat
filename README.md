@@ -1,0 +1,2 @@
+# SkChat
+Innowacyjny asystent czatu
